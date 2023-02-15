@@ -47,9 +47,8 @@ The program will then display the following information, with the prices properl
 8. The amount owed per person
 
 Guidelines
-• The tip percentage should be shown as choices:
-1) Exceptional 20% , 2) Good 15%, 3) Basic 10%, 4) Horrible 0%
-o If the user chooses 2, then the tip percentage is 15%
+• The tip percentage should be shown as choices: 1) Exceptional 20% , 2) Good 15%, 3) Basic 10%, 4) Horrible 0%
+• If the user chooses 2, then the tip percentage is 15%
 • If the user chooses something not in the menu choice list, the program should ask them to choose again and tell them the input was not correct.
 • If the user enters a value other than a number (for money amounts), the program should ask them to input the value again.
 • There are no “exit” choices in any of the menus, once the program starts, we expect the user to complete the process.
