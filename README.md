@@ -1,8 +1,6 @@
 # Tipping_QCtax
 Program to calculate QC tax and tipping on served meals
 
-
-
 Concordia University - Intro to Python course Jan-Apr/23 - Winter 2023
 Assignment 1 – Tip Calculator
 
