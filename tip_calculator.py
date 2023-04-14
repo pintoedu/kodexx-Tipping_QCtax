@@ -55,6 +55,6 @@ while True:
         print("**************************************************************")
 # Break to exit loop while all the conditions are met
         break
-# If somehow a value other than the selection 1 to 4  is made, the "else: print()" below will prompt to correct it
+# If somehow a value other than the selection 1 to 4 is made, the "else: print()" below will prompt to correct it
     else:
         print("Please, enter a valid option.")
