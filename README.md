@@ -56,3 +56,4 @@ Guidelines
 - Regional settings are not necessary.
 - Quebec sales tax rules are here: https://www.revenuquebec.ca/en/businesses/consumption-taxes/gsthst-and-qst/basic-rules-for-applying-the-gsthst-and-qst/
 
+
