@@ -1,6 +1,5 @@
 # Eduardo Pinto - Tip Calculator Assignment - Concordia
 
-
 # Created variable to get an int number of diners - no need for a float as this should be a whole number
 while True:
     diners = input("How many diners today? > ")
