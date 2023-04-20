@@ -43,7 +43,6 @@ while True:
         each = grand / diners           # The grand total each person will pay
         
         
-        
 # List of prints used to display all results asked
         print("\n************************ CALCULATION ************************")
         print(f"Number of diners:                                {diners}\n")
