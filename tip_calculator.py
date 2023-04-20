@@ -44,7 +44,6 @@ while True:
         
         
         
-        
 # List of prints used to display all results asked
         print("\n************************ CALCULATION ************************")
         print(f"Number of diners:                                {diners}\n")
