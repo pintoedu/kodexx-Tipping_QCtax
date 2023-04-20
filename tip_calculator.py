@@ -41,6 +41,11 @@ while True:
         ttl = cost_meal + qst + gst     # Total calculation including taxes
         grand = ttl + tip               # Grand total including taxes and tips
         each = grand / diners           # The grand total each person will pay
+        
+        
+        
+        
+        
 
 # List of prints used to display all results asked
         print("\n************************ CALCULATION ************************")
