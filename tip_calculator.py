@@ -60,7 +60,3 @@ while True:
         print("Please, enter a valid option.")
         
 
-        
-        
-        
-       
