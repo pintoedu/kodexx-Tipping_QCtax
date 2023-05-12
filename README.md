@@ -4,6 +4,9 @@ Program to calculate QC tax and tipping on served meals
 Concordia University - Intro to Python course Jan-Apr/23 - Winter 2023
 Assignment 1 – Tip Calculator
 
+
+
+
 Description and Purpose
 The purpose of this assignment is to allow you to take the theory we learned in class and apply it practically on your computer, using Python.
 Your task is to produce the code required to answer the various questions, test the code, and formalize it before delivering it.
