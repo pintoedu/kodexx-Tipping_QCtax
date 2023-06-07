@@ -13,8 +13,7 @@ while True:
         
         
         
-        
-        
+
 # Created variable to get a float number as we are fetching the cost of the meal (without taxes yet)
 while True:
     cost_meal = input("What is the cost of all meals before taxes?: > ")
